@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Novan and I am 19 y.o. front end web developer from Yogyakarta, Indonesia. I am currently learning TypeScript and NextJS. I am one of students in Generasi GIGIH Front End Developer Path
+My name is Novan and I am 19 y.o. front end web developer from Yogyakarta, Indonesia. I am currently learning TypeScript and NextJS.
